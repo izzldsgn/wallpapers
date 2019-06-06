@@ -1,12 +1,13 @@
 {
   "Wallpapers": [
   {
-    "name": "Pearl Wallpaper 1",
+    "name": "Pearl Walls 1",
     "author": "IZZLDSGN",
-    "url": "https://github.com/izzldsgn/wallpapers/master/wall1.jpg",
-    "thumbnail": "https://github.com/izzldsgn/wallpapers/master/wall1_thumbnails.jpg",
+    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall1.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall1_thumbnails.jpg",
     "downloadable": true,
     "dimensions": "2160 x 1080 px",
+    "size" : "495000",
     "copyright": "Who have the original files"
   }
   ]
