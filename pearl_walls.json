@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Pearl Wallpaper 1",
+		"author": "IZZLDSGN",
+		"url": "https://github.com/izzldsgn/wallpapers/blob/master/wall1.jpg",
+		"thumbnail": "https://github.com/izzldsgn/wallpapers/blob/master/wall1_thumbnails.jpg",
+		"downloadable": true,
+		"dimensions": "2160 x 1080 px",
+		"copyright": "Who have the original files"
+	},
+	{
+		"name": "Pearl Wallpaper 2",
+		"author": "IZZLDSGN",
+		"url": "https://github.com/izzldsgn/wallpapers/blob/master/wall2.jpg",
+		"thumbnail": "https://github.com/izzldsgn/wallpapers/blob/master/wall2_thumbnails.jpg",
+		"downloadable": true,
+		"dimensions": "2160 x 1080 px",
+		"copyright": "Who have the original files"
+	},
+]
