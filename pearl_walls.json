@@ -1,175 +1,173 @@
 {
-  "Wallpapers": [
-  {
-    "name": "Pearl Walls 1",
-    "author": "IZZLDSGN",
-    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall1.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall1_thumbnails.jpg",
-    "downloadable": true,
-    "dimensions": "2160 x 1080 px",
-    "size" : "495000",
-    "copyright": "Who have the original files"
-  },
-  {
-    "name": "Pearl Walls 2",
-    "author": "IZZLDSGN",
-    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall2.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall2_thumbnails.jpg",
-    "downloadable": true,
-    "dimensions": "2160 x 1080 px",
-    "size" : "824000",
-    "copyright": "Who have the original files"
-  },
-  {
-    "name": "Pearl Walls 3",
-    "author": "IZZLDSGN",
-    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall3.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall3_thumbnails.jpg",
-    "downloadable": true,
-    "dimensions": "2160 x 1080 px",
-    "size" : "884000",
-    "copyright": "Who have the original files"
-  },
-  {
-    "name": "Pearl Walls 4",
-    "author": "IZZLDSGN",
-    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall4.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall4_thumbnails.jpg",
-    "downloadable": true,
-    "dimensions": "2160 x 1080 px",
-    "size" : "672000",
-    "copyright": "Who have the original files"
-  },    
-  {
-    "name": "Pearl Walls 5",
-    "author": "IZZLDSGN",
-    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall5.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall5_thumbnails.jpg",
-    "downloadable": true,
-    "dimensions": "2160 x 1080 px",
-    "size" : "320000",
-    "copyright": "Who have the original files"
-  },
-  {
-    "name": "Pearl Walls 6",
-    "author": "IZZLDSGN",
-    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall6.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall6_thumbnails.jpg",
-    "downloadable": true,
-    "dimensions": "2160 x 1080 px",
-    "size" : "407000",
-    "copyright": "Who have the original files"
-  },
-  {
-    "name": "Pearl Walls 7",
-    "author": "IZZLDSGN",
-    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall7.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall7_thumbnails.jpg",
-    "downloadable": true,
-    "dimensions": "2160 x 1080 px",
-    "size" : "436000",
-    "copyright": "Who have the original files"
-  },
-  {
-    "name": "Pearl Walls 8",
-    "author": "IZZLDSGN",
-    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall8.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall8_thumbnails.jpg",
-    "downloadable": true,
-    "dimensions": "2160 x 1080 px",
-    "size" : "598000",
-    "copyright": "Who have the original files"
-  },
-  {
-    "name": "Pearl Walls 9",
-    "author": "IZZLDSGN",
-    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall9.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall9_thumbnails.jpg",
-    "downloadable": true,
-    "dimensions": "2160 x 1080 px",
-    "size" : "892000",
-    "copyright": "Who have the original files"
-  },    
-  {
-    "name": "Pearl Walls 10",
-    "author": "IZZLDSGN",
-    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall10.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall10_thumbnails.jpg",
-    "downloadable": true,
-    "dimensions": "2160 x 1080 px",
-    "size" : "862000",
-    "copyright": "Who have the original files"
-  },
-  {
-    "name": "Pearl Walls 11",
-    "author": "IZZLDSGN",
-    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall11.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall11_thumbnails.jpg",
-    "downloadable": true,
-    "dimensions": "2160 x 1080 px",
-    "size" : "883000",
-    "copyright": "Who have the original files"
-  },
-  {
-    "name": "Pearl Walls 12",
-    "author": "IZZLDSGN",
-    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall12.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall12_thumbnails.jpg",
-    "downloadable": true,
-    "dimensions": "2160 x 1080 px",
-    "size" : "1020000",
-    "copyright": "Who have the original files"
-  },
-  {
-    "name": "Pearl Walls 13",
-    "author": "IZZLDSGN",
-    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall13.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall13_thumbnails.jpg",
-    "downloadable": true,
-    "dimensions": "2160 x 1080 px",
-    "size" : "657000",
-    "copyright": "Who have the original files"
-  },
-  {
-    "name": "Pearl Walls 14",
-    "author": "IZZLDSGN",
-    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall14.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall14_thumbnails.jpg",
-    "downloadable": true,
-    "dimensions": "2160 x 1080 px",
-    "size" : "997000",
-    "copyright": "Who have the original files"
-  },    
-  {
-    "name": "Pearl Walls 15",
-    "author": "IZZLDSGN",
-    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall15.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall15_thumbnails.jpg",
-    "downloadable": true,
-    "dimensions": "2160 x 1080 px",
-    "size" : "692000",
-    "copyright": "Who have the original files"
-  },
-    {
-    "name": "Pearl Walls 16",
-    "author": "IZZLDSGN",
-    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall16.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall16_thumbnails.jpg",
-    "downloadable": true,
-    "dimensions": "2160 x 1080 px",
-    "size" : "350000",
-    "copyright": "Who have the original files"
-  },    
-  {
-    "name": "Pearl Walls 17",
-    "author": "IZZLDSGN",
-    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall17.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall17_thumbnails.jpg",
-    "downloadable": true,
-    "dimensions": "2160 x 1080 px",
-    "size" : "196000",
-    "copyright": "Who have the original files"
-  } 
-  ]
-}
+	"Wallpapers": [{
+			"name": "Pearl Walls 1",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall1_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "495000",
+			"copyright": "Who have the original files"
+		},
+		{
+			"name": "Pearl Walls 2",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall2_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "824000",
+			"copyright": "Who have the original files"
+		},
+		{
+			"name": "Pearl Walls 3",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall3_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "884000",
+			"copyright": "Who have the original files"
+		},
+		{
+			"name": "Pearl Walls 4",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall4_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "672000",
+			"copyright": "Who have the original files"
+		},
+		{
+			"name": "Pearl Walls 5",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall5.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall5_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "320000",
+			"copyright": "Who have the original files"
+		},
+		{
+			"name": "Pearl Walls 6",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall6.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall6_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "407000",
+			"copyright": "Who have the original files"
+		},
+		{
+			"name": "Pearl Walls 7",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall7.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall7_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "436000",
+			"copyright": "Who have the original files"
+		},
+		{
+			"name": "Pearl Walls 8",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall8.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall8_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "598000",
+			"copyright": "Who have the original files"
+		},
+		{
+			"name": "Pearl Walls 9",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall9.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall9_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "892000",
+			"copyright": "Who have the original files"
+		},
+		{
+			"name": "Pearl Walls 10",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall10.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall10_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "862000",
+			"copyright": "Who have the original files"
+		},
+		{
+			"name": "Pearl Walls 11",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall11.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall11_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "883000",
+			"copyright": "Who have the original files"
+		},
+		{
+			"name": "Pearl Walls 12",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall12.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall12_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "1020000",
+			"copyright": "Who have the original files"
+		},
+		{
+			"name": "Pearl Walls 13",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall13.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall13_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "657000",
+			"copyright": "Who have the original files"
+		},
+		{
+			"name": "Pearl Walls 14",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall14.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall14_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "997000",
+			"copyright": "Who have the original files"
+		},
+		{
+			"name": "Pearl Walls 15",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall15.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall15_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "692000",
+			"copyright": "Who have the original files"
+		},
+		{
+			"name": "Pearl Walls 16",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall16.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall16_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "350000",
+			"copyright": "Who have the original files"
+		},
+		{
+			"name": "Pearl Walls 17",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall17.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall17_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "196000",
+			"copyright": "Who have the original files"
+		}
+	]
 }
