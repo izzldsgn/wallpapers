@@ -168,6 +168,26 @@
 			"dimensions": "2160 x 1080 px",
 			"size": "196000",
 			"copyright": "Who have the original files"
+		},
+				{
+			"name": "Pearl Walls 18",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall18.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall18_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "344000",
+			"copyright": "Who have the original files"
+		},
+		{
+			"name": "Pearl Walls 19",
+			"author": "IZZLDSGN",
+			"url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall19.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/master/wall19_thumbnails.jpg",
+			"downloadable": true,
+			"dimensions": "2160 x 1080 px",
+			"size": "842000",
+			"copyright": "Who have the original files"
 		}
 	]
 }
