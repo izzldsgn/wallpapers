@@ -1,11 +1,9 @@
 [
   {
-    "name": "Webp Image",
-    "author": "unknown",
-    "url": "https://www.gstatic.com/webp/gallery/4.webp",
-    "thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-    "dimensions": "3200x2560",
-    "copyright": "Unknown",
+    "name": "Pearl Walls 1",
+    "author": "IZZLDSGN",
+    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/refs/heads/master/wall1.jpg",
+    "copyright": "Who have the original files",
     "collections": "landscapes"
   }
 ]
