@@ -1,10 +1,10 @@
 [
   {
-    "name": "Neom from Assets",
-    "author": "unsplash",
-    "url": "file:///android_asset/wallpapers/neom.jpg",
-    "dimensions": "3200x2560",
-    "copyright": "Free (do whatever you want)",
-    "collections": "assets"
+    "name": "Pearl Walls 1",
+    "author": "IZZLDSGN",
+    "url": "http://raw.githubusercontent.com/izzldsgn/wallpapers/refs/heads/master/wall1.jpg",
+    "thumbnail": "http://raw.githubusercontent.com/izzldsgn/wallpapers/refs/heads/master/wall1_thumbnails.jpg",
+    "dimensions": "2160x1080",
+    "copyright": "Who have the original files"
   }
 ]
