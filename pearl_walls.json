@@ -1,13 +1,11 @@
-{
-	"Wallpapers": [{
-			"name": "Pearl Walls 1",
-			"author": "IZZLDSGN",
-			"url": "https://github.com/izzldsgn/wallpapers/blob/master/wall1.jpg",
-			"thumbnail": "https://github.com/izzldsgn/wallpapers/blob/master/wall1_thumbnails.jpg",
-			"downloadable": true,
-			"dimensions": "2160 x 1080 px",
-			"size": "495000",
-			"copyright": "Who have the original files"
-		}
-	]
-}
+[
+  {
+    "name": "Pearl Walls 1",
+    "author": "IZZLDSGN",
+    "url": "https://raw.githubusercontent.com/izzldsgn/wallpapers/refs/heads/master/wall1.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/izzldsgn/wallpapers/refs/heads/master/wall1_thumbnails.jpg",
+    "dimensions": "2160x1080",
+    "copyright": "Who have the original files",
+    "collections": "landscapes"
+  }
+]
